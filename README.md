@@ -23,7 +23,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ## WHOIS
-![Screenshot 2024-03-26 040212](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/81dcb147-1fd4-429a-8f43-5ce810c11167)
+![image](https://github.com/user-attachments/assets/d4ce04f5-bb95-4e86-8c8a-63d121d6a70b)
+
 ## IP2LOCATION:
 ![image](https://github.com/MARXINLIJO/InformationGathering/assets/145742540/dedf8065-b4ca-4a25-b006-e9f63b2ed210)
 ## WEB ARCHIVE:
